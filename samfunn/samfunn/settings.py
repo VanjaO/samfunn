@@ -25,7 +25,7 @@ SECRET_KEY = 'b0q3o6oa-2i^p=ge^vmvnafwtj7%6-uq7e21w68)0l^bb26wpj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['77.73.7.200', 'kreativintelligens.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
